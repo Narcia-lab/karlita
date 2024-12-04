@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantas Venenosas en Chiapas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Plantas Venenosas en Chiapas</h1>
+        <p>Información y precauciones</p>
+    </header>
+
+    <main>
+        <section id="helecho-macho">
+            <h2>Helecho macho (Dryopteris filix-mas)</h2>
+            <img src="helecho-macho.jpg" alt="Helecho macho">
+            <p>El helecho macho es un helecho de gran tamaño con frondas (hojas) verdes y coriáceas, que pueden llegar a medir hasta 1 metro de largo. Crece en zonas húmedas y sombrías, como bosques y barrancos. Todas las partes de la planta son tóxicas, especialmente las raíces.</p>
+            <h3>Toxicidad</h3>
+            <p>Contiene sustancias tóxicas como filicina, que afecta al hígado y a los riñones. Es especialmente peligroso para niños y mujeres embarazadas.</p>
+            <h3>Síntomas de envenenamiento</h3>
+            <ul>
+                <li>Náuseas</li>
+                <li>Vómitos</li>
+                <li>Diarrea</li>
+                <li>Dolor abdominal</li>
+                <li>Debilidad muscular</li>
+                <li>Convulsiones</li>
+                <li>Daño hepático y renal</li>
+            </ul>
+            <h3>Precauciones</h3>
+            <p>Evita el contacto con la planta y no la consumas. En caso de contacto accidental, busca atención médica inmediata.</p>
+        </section>
+
+        <section id="adelfa">
+            <h2>Adelfa (Nerium oleander)</h2>
+            <img src="adelfa.jpg" alt="Adelfa">
+            <p>La adelfa es un arbusto de hoja perenne con flores de color rosa, blanco o rojo. Se cultiva como planta ornamental en jardines y parques. Todas las partes de la planta son altamente tóxicas, especialmente las hojas y las flores.</p>
+            <h3>Toxicidad</h3>
+            <p>Contiene glucósidos cardíacos que afectan al corazón.</p>
+            <h3>Síntomas de envenenamiento</h3>
+            <ul>
+                <li>Náuseas</li>
+                <li>Vómitos</li>
+                <li>Diarrea</li>
+                <li>Dolor abdominal</li>
+                <li>Ritmo cardíaco irregular</li>
+                <li>Convulsiones</li>
+                <li>Coma</li>
+            </ul>
+            <h3>Precauciones</h3>
+            <p>Evita el contacto con la planta y no la consumas. Mantén a los niños y a las mascotas lejos de la planta. En caso de contacto accidental, busca atención médica inmediata.</p>
+        </section>
+
+        <section id="ricino">
+            <h2>Ricino (Ricinus communis)</h2>
+            <img src="ricino.jpg" alt="Ricino">
+            <p>El ricino es una planta herbácea con hojas grandes y palmadas, de color verde oscuro. Produce semillas de color marrón oscuro con manchas grises. Se cultiva como planta ornamental y para la producción de aceite de ricino. Las semillas son altamente tóxicas, contienen ricina, una toxina que afecta a las células. La ingestión de tan solo una o dos semillas puede ser fatal.</p>
+            <h3>Toxicidad</h3>
+            <p>Las semillas son altamente tóxicas, contienen ricina, una toxina que afecta a las células. La ingestión de tan solo una o dos semillas puede ser fatal.</p>
+            <h3>Síntomas de envenenamiento</h3>
+            <ul>
+                <li>Náuseas</li>
+                <li>Vómitos</li>
+                <li>Diarrea</li>
+                <li>Dolor abdominal</li>
+                <li>Deshidratación</li>
+                <li>Convulsiones</li>
+                <li>Coma</li>
+            </ul>
+            <h3>Precauciones</h3>
+            <p>Evita el contacto con las semillas y no las consumas. Mantén a los niños y a las mascotas lejos de la planta. En caso de contacto accidental, busca atención médica inmediata.</p>
+        </section>
+
+        <section id="trompeta-de-angel">
+            <h2>Trompeta de ángel (Brugmansia spp.)</h2>
+            <img src="trompeta-de-angel.jpg" alt="Trompeta de ángel">
+            <p>La trompeta de ángel es un arbusto o árbol pequeño con flores grandes y colgantes, de color blanco, amarillo, naranja o rojo. Se cultiva como planta ornamental. Todas las partes de la planta son tóxicas, especialmente las hojas y las flores.</p>
+            <h3>Toxicidad</h3>
+            <p>Contiene alcaloides tropánicos, como la escopolamina, que afectan al sistema nervioso central.</p>
+            <h3>Síntomas de envenenamiento</h3>
+            <ul>
+                <li>Alucinaciones</li>
+                <li>Delirio</li>
+                <li>Confusión</li>
+                <li>Taquicardia</li>
+                <li>Midriasis (dilatación de las pupilas)</li>
+                <li>Sequedad de boca</li>
+                <li>Dificultad para respirar</li>
+                <li>Convulsiones</li>
+                <li>Coma</li>
+            </ul>
+            <h3>Precauciones</h3>
+            <p>Evita el contacto con la planta y no la consumas. Mantén a los niños y a las mascotas lejos de la planta. En caso de contacto accidental, busca atención médica inmediata.</p>
+        </section>
+
+        <section id="manzanillo">
+            <h2>Manzanillo (Hippomane mancinella)</h2>
+            <img src="manzanillo.jpg" alt="Manzanillo">
+            <p>El manzanillo es un árbol de tamaño mediano con hojas ovaladas y brillantes, de color verde oscuro. Produce frutos pequeños y redondos, de color verde o amarillo. Se encuentra en zonas costeras de América tropical. Todas las partes de la planta son altamente tóxicas, especialmente la savia, la fruta y la madera.</p>
+            <h3>Toxicidad</h3>
+            <p>Contiene sustancias irritantes que causan dermatitis, conjuntivitis, dolor abdominal, vómitos, diarrea y convulsiones.</p>
+            <h3>Síntomas de envenenamiento</h3>
+            <ul>
+                <li>Irritación de la piel y los ojos</li>
+                <li>Dolor abdominal</li>
+                <li>Vómitos</li>
+                <li>Diarrea</li>
+                <li>Convulsiones</li>
+            </ul>
+            <h3>Precauciones</h3>
+            <p>Evita el contacto con la planta y no la consumas. No te acerques al árbol, especialmente en días de viento, ya que la savia puede ser transportada por el viento. En caso de contacto accidental, busca atención médica inmediata.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
